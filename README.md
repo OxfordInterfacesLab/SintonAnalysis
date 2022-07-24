@@ -1,2 +1,5 @@
 # SintonAnalysis
-Here are the instructions of how to use this code.
+
+Please use the Matlab App: SintonTeff_X.mlapp
+
+
